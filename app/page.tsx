@@ -14,7 +14,7 @@ const cards = [
     title: "Personal Finance Synarios",
     description:
       "Explore retirement, savings, withdrawal strategies, debt payoff, and investing decisions.",
-    href: "/personal",
+    href: "/sequence-of-returns",
     icon: PiggyBank,
   },
 ];
