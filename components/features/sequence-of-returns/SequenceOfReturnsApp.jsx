@@ -460,7 +460,7 @@ export default function App() {
           <section className="card inputs-card">
             <div className="section-header">
               <h2 className="card-title">
-                Time Horizon
+                Time Horizons
                 {scenarios.length > 1 && (
                   <span
                     className="card-title-badge"
